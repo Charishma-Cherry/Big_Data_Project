@@ -1,2 +1,7 @@
-kafka-python
-pyspark
+#For kafka 2.11 version
+
+kafka-python 2.0.2
+pip          21.2.4
+py4j         0.10.9.7
+pyspark      3.5.3
+setuptools   58.1.0
