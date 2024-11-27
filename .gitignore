@@ -1,0 +1,17 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+venv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore node_modules for frontend projects
+node_modules/
+
+# Ignore log files
+*.log
